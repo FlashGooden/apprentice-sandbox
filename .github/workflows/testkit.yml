@@ -1,2 +1,0 @@
-- name: Branch name rules
-  uses: deepakputhraya/action-branch-name@v1.0.0

@@ -6,4 +6,4 @@ Flash's Favorite food is escoveitch chicken
 
 Rise's Favorite food is Bar-B-Que chicken
 
-Sheridan's Favorite food is Honey roasted chicken... Testing testing   
+Sheridan's Favoriteee food is Honey roasted chicken... Testing testing   
